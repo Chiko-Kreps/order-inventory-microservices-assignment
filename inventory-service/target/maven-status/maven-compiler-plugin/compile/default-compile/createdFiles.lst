@@ -1,0 +1,13 @@
+com/example/inventory/model/InventoryBatch.class
+com/example/inventory/repository/InventoryBatchRepository.class
+com/example/inventory/service/InventoryServiceImpl.class
+com/example/inventory/dto/UpdateInventoryRequest.class
+com/example/inventory/factory/InventoryHandlerFactory.class
+com/example/inventory/dto/InventoryBatchDto.class
+com/example/inventory/dto/UpdateInventoryRequest$Item.class
+com/example/inventory/InventoryServiceApplication.class
+com/example/inventory/service/InventoryService.class
+com/example/inventory/model/Product.class
+com/example/inventory/controller/InventoryController.class
+com/example/inventory/factory/DefaultInventoryHandler.class
+com/example/inventory/factory/InventoryHandler.class
